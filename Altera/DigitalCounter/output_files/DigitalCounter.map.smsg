@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at DigitalCounter.sv(28): always construct contains both blocking and non-blocking assignments File: /home/fka/dev_fpga/fpga_learning/Altera/DigitalCounter/DigitalCounter.sv Line: 28

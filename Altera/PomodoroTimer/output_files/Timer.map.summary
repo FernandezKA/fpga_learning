@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Mon Jun  9 23:44:45 2025
+Quartus Prime Version : 24.1std.0 Build 1077 03/04/2025 SC Lite Edition
+Revision Name : Timer
+Top-level Entity Name : Timer
+Family : Cyclone IV E
+Total logic elements : 4
+    Total combinational functions : 0
+    Dedicated logic registers : 4
+Total registers : 4
+Total pins : 15
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

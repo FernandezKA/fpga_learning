@@ -1,0 +1,32 @@
+|Timer
+i_clk => o_seg[0]~reg0.CLK
+i_clk => o_seg[1]~reg0.CLK
+i_clk => o_seg[2]~reg0.CLK
+i_clk => o_seg[3]~reg0.CLK
+i_clk => o_seg[4]~reg0.CLK
+i_clk => o_seg[5]~reg0.CLK
+i_clk => o_seg[6]~reg0.CLK
+i_clk => o_seg[7]~reg0.CLK
+i_clk => o_digit[0]~reg0.CLK
+i_clk => o_digit[1]~reg0.CLK
+i_clk => o_digit[2]~reg0.CLK
+i_clk => o_digit[3]~reg0.CLK
+i_rst_n => o_digit[3]~reg0.DATAIN
+i_rst_n => o_digit[2]~reg0.DATAIN
+i_rst_n => o_digit[1]~reg0.DATAIN
+i_rst_n => o_digit[0]~reg0.DATAIN
+i_key_n => ~NO_FANOUT~
+o_digit[0] <= o_digit[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+o_digit[1] <= o_digit[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+o_digit[2] <= o_digit[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+o_digit[3] <= o_digit[3]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+o_seg[0] <= o_seg[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+o_seg[1] <= o_seg[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+o_seg[2] <= o_seg[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+o_seg[3] <= o_seg[3]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+o_seg[4] <= o_seg[4]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+o_seg[5] <= o_seg[5]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+o_seg[6] <= o_seg[6]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+o_seg[7] <= o_seg[7]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

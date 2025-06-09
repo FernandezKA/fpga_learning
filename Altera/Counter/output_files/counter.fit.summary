@@ -1,0 +1,16 @@
+Fitter Status : Successful - Sat Jun  7 18:24:19 2025
+Quartus Prime Version : 24.1std.0 Build 1077 03/04/2025 SC Lite Edition
+Revision Name : counter
+Top-level Entity Name : blink_debounce
+Family : Cyclone IV E
+Device : EP4CE6E22C8
+Timing Models : Final
+Total logic elements : 97 / 6,272 ( 2 % )
+    Total combinational functions : 95 / 6,272 ( 2 % )
+    Dedicated logic registers : 55 / 6,272 ( < 1 % )
+Total registers : 55
+Total pins : 4 / 92 ( 4 % )
+Total virtual pins : 0
+Total memory bits : 0 / 276,480 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 30 ( 0 % )
+Total PLLs : 0 / 2 ( 0 % )
